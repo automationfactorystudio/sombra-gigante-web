@@ -1,6 +1,6 @@
 /* Service worker · Boliche y el misterio de la sombra gigante
    Al actualizar el juego, sube el número de VERSION para que los móviles reciban los cambios. */
-const VERSION = 'sombra-v4';
+const VERSION = 'sombra-v5';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png', 'logo-tigalma.png',
   'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js',
   'https://cdn.jsdelivr.net/npm/three@0.165.0/build/three.module.js',
