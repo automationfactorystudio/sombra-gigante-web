@@ -1,0 +1,41 @@
+VOCES · Boliche y el misterio de la sombra gigante
+====================================================
+Guárdalas en esta carpeta (voces/) con estos nombres exactos, en minúsculas y .mp3.
+Mientras falte alguna, el juego usa la voz del navegador para esa frase.
+
+  boliche-hola.mp3               Boliche:     ¡Hola! Soy Boliche. ¡Esta noche es Halloween!
+  boliche-que-sera.mp3           Boliche:     ¿Has oído eso? ¿Qué será?
+  boliche-sombra.mp3             Boliche:     ¡Una sombra gigante! ¡Tiene ojos!
+  boliche-corro.mp3              Boliche:     ¡Aaah! ¡Me voy corriendo!
+  boliche-tropiezo.mp3           Boliche:     ¡Uy! Me he caído en las hojas…
+  boliche-respiro.mp3            Boliche:     Respiro hondo… uno… dos… tres. Ya estoy más tranquilo.
+  boliche-linterna.mp3           Boliche:     ¡Con la linterna lo veré mejor!
+  boliche-pluma.mp3              Boliche:     ¡Una pluma!
+  boliche-huellas.mp3            Boliche:     Huellas pequeñitas…
+  boliche-bellota.mp3            Boliche:     Una bellota mordida…
+  boliche-pequenito.mp3          Boliche:     Las pistas dicen que es alguien pequeñito…
+  boliche-quien.mp3              Boliche:     Hola… ¿quién eres?
+  boliche-juntos.mp3             Boliche:     ¿Le preguntamos juntos? ¿Quién eres?
+  boliche-tambien.mp3            Boliche:     ¡Tú también tenías miedo!
+  boliche-acompanar.mp3          Boliche:     ¡Te acompañamos a casa!
+  boliche-senal.mp3              Boliche:     ¡Hagamos una señal de luz para tu mamá!
+  boliche-miedo-pequeno.mp3      Boliche:     ¡El miedo se hace pequeño cuando lo miras!
+  boliche-adios.mp3              Boliche:     ¡Feliz Halloween! ¡Gracias por jugar conmigo!
+  oruga-hola.mp3                 Doña Oruga:  Y yo soy Doña Oruga. Esta noche viviremos un misterio.
+  oruga-pregunta-miedo.mp3       Doña Oruga:  Boliche está asustado. ¿Qué hacemos?
+  oruga-correr.mp3               Doña Oruga:  Correr no hace que el miedo se vaya. ¿Probamos a respirar?
+  oruga-manten.mp3               Doña Oruga:  Mantén pulsado para respirar con Boliche.
+  oruga-respirar-bien.mp3        Doña Oruga:  ¡Muy bien! Respirar nos ayuda a calmarnos.
+  oruga-linterna.mp3             Doña Oruga:  Toma esta linterna. Mueve el dedo para buscar pistas.
+  oruga-detective.mp3            Doña Oruga:  ¡Has encontrado todas las pistas! ¡Qué buen detective!
+  oruga-pregunta-sombra.mp3      Doña Oruga:  La sombra se ha movido. ¿Qué hace Boliche?
+  oruga-a-mi-lado.mp3            Doña Oruga:  Puedes quedarte a mi lado. Tu voz también es valiente.
+  oruga-pregunta-pipo.mp3        Doña Oruga:  Pipo se ha perdido. ¿Cómo le ayudamos?
+  oruga-luciernagas.mp3          Doña Oruga:  Toca las luciérnagas para iluminar el camino.
+  oruga-circulos.mp3             Doña Oruga:  Mueve la linterna en círculos para que su mamá la vea.
+  oruga-valientes.mp3            Doña Oruga:  Preguntar y ayudar es de valientes.
+  oruga-otro-final.mp3           Doña Oruga:  ¿Quieres descubrir el otro final?
+  pipo-uuuh.mp3                  Pipo:        ¡Uuuuh!
+  pipo-perdido.mp3               Pipo:        Soy Pipo… me he perdido… y tenía mucho miedo.
+  pipo-gracias.mp3               Pipo:        ¡Gracias, amigos! ¡Ya no tengo miedo!
+  mama-buho.mp3                  Mamá Búho:   ¡Pipo! ¡Mi pequeño! Gracias por cuidarle.
